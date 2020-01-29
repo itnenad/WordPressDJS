@@ -2,6 +2,8 @@ Ovo je prvi tekst dokument za vezbu na kome radi cela grupa.
 1.Prvi red
 2.Drugi red
 
+4. Ovo je promena na master grani.
+
 
 
 7. sedmi
