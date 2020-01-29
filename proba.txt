@@ -1,6 +1,7 @@
 Ovo je prvi tekst dokument za vezbu na kome radi cela grupa.
 1.Prvi red
 2.Drugi red
+3. Ovo je promena na grani broj 2.
 
 
 
